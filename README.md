@@ -26,7 +26,7 @@ There are several months, especially in less populated counties, where a ZHVI sc
 
 * Metro - str - Metro area (Major City) that this county is associated with
 
-* *dates* - f64 - the ZHVI score for the county for this month (recorded at the end of the month so 2000-01-31 is for January, 2000)
+* *dates* - f64 - the ZHVI score for the county for this month in dollars (recorded at the end of the month so 2000-01-31 is for January, 2000)
 
 ## Data Table Snippet
 |    |   fips |   SizeRank | Metro                     |   2000-01-31 |   2000-02-29 |   2000-03-31 |   2000-04-30 |
