@@ -16,7 +16,7 @@ This data can be used to see trends over time of general house prices per county
 
 ## Missing Values
 
-There are several months, especially in less populated counties, where a ZHVI score was not recorded. The closer you move towrds the present the more fields there are that have a ZHVI score. We have assigned these missing values as NULL. There are a few counties that have no data, but are still represented in the data.
+There are several months, especially in less populated counties, where a ZHVI score was not recorded. The closer you move towrds the present the more fields there are that have a ZHVI score. We have assigned these missing values as `nan`. There are a few counties that have no data, but are still represented in the data.
 
 ## Data Dictionary
 
