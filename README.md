@@ -29,3 +29,10 @@ There are several months, especially in less populated counties, where a ZHVI sc
 * *dates* - f64 - the ZHVI score for the county for this month (recorded at the end of the month so 2000-01-31 is for January, 2000)
 
 ## Data Table Snippet
+|    |   fips |   SizeRank | Metro                     |   2000-01-31 |   2000-02-29 |   2000-03-31 |   2000-04-30 |
+|---:|-------:|-----------:|:--------------------------|-------------:|-------------:|-------------:|-------------:|
+|  0 |   1001 |        904 | Montgomery, AL            |       119113 |       119142 |       118947 |       118873 |
+|  1 |   1003 |        302 | Daphne-Fairhope-Foley, AL |       133903 |       134113 |       134348 |       134816 |
+|  2 |   1005 |       1635 | Eufaula, AL-GA            |          nan |          nan |          nan |          nan |
+|  3 |   1007 |       1751 | Birmingham-Hoover, AL     |          nan |          nan |          nan |          nan |
+|  4 |   1009 |        894 | Birmingham-Hoover, AL     |          nan |          nan |          nan |          nan |
